@@ -1,0 +1,20 @@
+Source: netrunner-artwork
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: netrunner-artwork
+Architecture: all
+Recommends: netrunner-artwork-aurorae-themes,
+	netrunner-artwork-color-schemes,
+	netrunner-artwork-fonts,
+	netrunner-artwork-icons,
+	netrunner-artwork-plasmathemes,
+	netrunner-artwork-lookandfeel-packages,
+	netrunner-artwork-sounds,
+	netrunner-artwork-audacious,
+	netrunner-artwork-grub
+Description: Metapackage for Netrunner Artwork
+  This metapackage provides the default artwork for Netrunner.
