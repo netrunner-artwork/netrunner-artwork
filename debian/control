@@ -15,6 +15,7 @@ Recommends: netrunner-artwork-aurorae-themes,
 	netrunner-artwork-lookandfeel-packages,
 	netrunner-artwork-sounds,
 	netrunner-artwork-audacious,
-	netrunner-artwork-grub
+	netrunner-artwork-grub,
+	plymouth-theme-netrunner-logo
 Description: Metapackage for Netrunner Artwork
   This metapackage provides the default artwork for Netrunner.
