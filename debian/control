@@ -8,6 +8,7 @@ Standards-Version: 3.7.2
 Package: netrunner-artwork
 Architecture: all
 Recommends: netrunner-artwork-aurorae-themes,
+	netrunner-artwork-backgrounds,
 	netrunner-artwork-color-schemes,
 	netrunner-artwork-fonts,
 	netrunner-artwork-icons,
