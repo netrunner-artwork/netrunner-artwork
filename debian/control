@@ -21,8 +21,9 @@ Recommends: artwork-audacious,
             artwork-windows-cursor,
             lnf-theme-blackx,
             lnf-theme-bluex,
-            netrunner-artwork-lookandfeel-packages,
             netrunner-artwork-grub,
+            netrunner-artwork-icons,
+            netrunner-artwork-lookandfeel-packages,
             plymouth-theme-netrunner-logo,
             wallpapers-extrapack-2
 Description: Metapackage for Netrunner Artwork
