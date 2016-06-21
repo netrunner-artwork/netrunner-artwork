@@ -21,6 +21,7 @@ Recommends: artwork-audacious,
             artwork-windows-cursor,
             lnf-theme-blackx,
             lnf-theme-bluex,
+            netrunner-artwork-lookandfeel-packages,
             netrunner-artwork-grub,
             plymouth-theme-netrunner-logo,
             wallpapers-extrapack-2
