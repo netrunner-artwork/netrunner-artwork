@@ -7,16 +7,23 @@ Standards-Version: 3.7.2
 
 Package: netrunner-artwork
 Architecture: all
-Recommends: netrunner-artwork-aurorae-themes,
-	netrunner-wallpapers-extrapack-2,
-	netrunner-artwork-color-schemes,
-	netrunner-artwork-fonts,
-	netrunner-artwork-icons,
-	netrunner-artwork-plasmathemes,
-	netrunner-artwork-lookandfeel-packages,
-	netrunner-artwork-sounds,
-	netrunner-artwork-audacious,
-	netrunner-artwork-grub,
-	plymouth-theme-netrunner-logo
+Recommends: artwork-audacious,
+            artwork-color-scheme-carbon,
+            artwork-desktop-theme-blackx,
+            artwork-desktop-theme-bluex,
+            artwork-desktop-theme-diamond,
+            artwork-desktop-theme-eclipse,
+            artwork-desktop-theme-enlightenment,
+            artwork-desktop-theme-gnome-shell-kde,
+            artwork-desktop-theme-orange-lightning,
+            artwork-desktop-theme-sevenified,
+            artwork-whiteclassicia-cursor,
+            artwork-windows-cursor,
+            lnf-theme-blackx,
+            lnf-theme-bluex,
+            netrunner-artwork-aurorae-themes,
+            netrunner-artwork-grub,
+            plymouth-theme-netrunner-logo,
+            wallpapers-extrapack-2
 Description: Metapackage for Netrunner Artwork
   This metapackage provides the default artwork for Netrunner.
