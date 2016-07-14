@@ -26,7 +26,6 @@ Recommends: artwork-audacious,
             netrunner-artwork-grub,
             netrunner-artwork-icons,
             netrunner-artwork-lookandfeel-packages,
-            plymouth-theme-netrunner-logo,
-            wallpapers-extrapack-2
+            plymouth-theme-netrunner-logo
 Description: Metapackage for Netrunner Artwork
   This metapackage provides the default artwork for Netrunner.
