@@ -20,6 +20,7 @@ Recommends: artwork-audacious,
             lnf-theme-bluex,
             artwork-grub-netrunner,
             artwork-lnf-netrunner-core,
-            artwork-plymouth-theme-netrunner
+            artwork-plymouth-theme-netrunner,
+            artwork-sddm-netrunner-core
 Description: Metapackage for Netrunner Artwork
   This metapackage provides the default artwork for Netrunner.
