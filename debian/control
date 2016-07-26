@@ -12,15 +12,16 @@ Recommends: artwork-audacious,
             artwork-desktop-theme-blackx,
             artwork-desktop-theme-bluex,
             artwork-desktop-theme-enlightenment,
+            artwork-grub-netrunner,
+            artwork-lnf-netrunner-core,
+            artwork-plymouth-theme-netrunner,
+            artwork-sddm-netrunner-core,
+            artwork-wallpapers-netrunner-core-1,
             artwork-whiteclassicia-cursor,
             artwork-windows-cursor,
             desktop-theme-blackx,
             desktop-theme-bluex,
             lnf-theme-blackx,
-            lnf-theme-bluex,
-            artwork-grub-netrunner,
-            artwork-lnf-netrunner-core,
-            artwork-plymouth-theme-netrunner,
-            artwork-sddm-netrunner-core
+            lnf-theme-bluex
 Description: Metapackage for Netrunner Artwork
   This metapackage provides the default artwork for Netrunner.
