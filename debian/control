@@ -19,7 +19,6 @@ Recommends: artwork-audacious,
             artwork-windows-cursor,
             desktop-theme-blackx,
             desktop-theme-bluex,
-            lnf-theme-blackx,
             lnf-theme-bluex
 Description: Metapackage for Netrunner Artwork
   This metapackage provides the default artwork for Netrunner.
